@@ -53,6 +53,10 @@ header h4{
 header p{
 	color: black;
 }
+#video_intro,
+#intro img{
+    cursor: pointer;
+}
 .intro{
     display: flex;
     justify-content: center;
